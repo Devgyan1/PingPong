@@ -1,0 +1,35 @@
+.heading{
+    width: 100%;
+    text-align: center;
+}
+
+.heading h3{
+    display: inline;
+}
+
+button{
+    float: right;
+    border: 10px solid rgb(38, 0, 255);
+}
+
+.div{
+    text-align: left;
+    background-color: rgb(4, 154, 57);
+    color: rgb(22, 81, 0);
+    height: 75px;
+    padding-top: -10px;
+}
+
+.big_image{
+    width: 100%;
+}
+
+
+.heading button{
+    border: 1px solid rgb(153, 0, 5);
+}
+
+#start, #status
+{
+    font-size: 22px;
+}
